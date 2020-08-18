@@ -15,13 +15,12 @@
 </p>
 
 <p align="center">
-
-    <img src="https://img.shields.io/github/languages/count/user/repo.svg?style=flat" alt="languages-badge"/>
-    <img src="https://img.shields.io/github/license/user/repo.svg?style=flat" alt="license-badge"/>
-    <img src="https://img.shields.io/github/repo-size/user/repo" alt="repo-size-badge">
-    <img src="https://img.shields.io/github/v/tag/user/repo" alt="tag-badge">
-	<img src="https://img.shields.io/github/last-commit/user/repo" alt="last-commit-badge">
-	<img src="https://img.shields.io/github/issues-raw/user/repo" alt="open-issues-badge">
+<img src="https://img.shields.io/github/languages/count/user/repo.svg?style=flat" alt="languages-badge"/>
+<img src="https://img.shields.io/github/license/user/repo.svg?style=flat" alt="license-badge"/>
+<img src="https://img.shields.io/github/repo-size/user/repo" alt="repo-size-badge">
+<img src="https://img.shields.io/github/v/tag/user/repo" alt="tag-badge">
+<img src="https://img.shields.io/github/last-commit/user/repo" alt="last-commit-badge">
+<img src="https://img.shields.io/github/issues-raw/user/repo" alt="open-issues-badge">
 </p>
 
 
