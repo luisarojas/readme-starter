@@ -16,7 +16,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/github/languages/count/user/repo.svg?style=flat" alt="languages-badge"/>
-<img src="https://img.shields.io/github/license/user/repo.svg?style=flat" alt="license-badge"/>
+<img src="https://img.shields.io/github/license/user/repo" alt="license-badge">
 <img src="https://img.shields.io/github/repo-size/user/repo" alt="repo-size-badge">
 <img src="https://img.shields.io/github/v/tag/user/repo" alt="tag-badge">
 <img src="https://img.shields.io/github/last-commit/user/repo" alt="last-commit-badge">
@@ -61,7 +61,7 @@ Vestibulum est eros, rhoncus nec vehicula eu, aliquam non elit. Aliquam erat vol
 
 ## License
 
-This project was released under the [???? License](http://www.opensource.org/licenses/MIT).
+This project was released under the [???? License](http://www.opensource.org/licenses).
 
 Copyright &copy; 2020 Luisa Rojas
 
